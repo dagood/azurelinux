@@ -1033,7 +1033,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-font-utils' package, version 7.5",
         "other": {
           "name": "bdftopcf",
           "version": "1.1",
@@ -1044,7 +1043,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "bdftopcf",
           "version": "1.1",
@@ -2505,7 +2503,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "DejaVu compiled fonts",
         "other": {
           "name": "dejavu-fonts",
           "version": "2.37",
@@ -3696,7 +3693,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-font-utils' package, version 7.5",
         "other": {
           "name": "font-util",
           "version": "1.4.1",
@@ -3767,7 +3763,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-font-utils' package, version 7.5",
         "other": {
           "name": "fonttosfnt",
           "version": "1.2.3",
@@ -4580,8 +4575,8 @@
         "type": "other",
         "other": {
           "name": "golang",
-          "version": "1.22.6",
-          "downloadUrl": "https://github.com/microsoft/go/releases/download/v1.22.6-1/go1.22.6-20240806.4.src.tar.gz"
+          "version": "1.23.0",
+          "downloadUrl": "https://github.com/microsoft/go/releases/download/v1.23.0-1/go1.23.0-20240814.2.src.tar.gz"
         }
       }
     },
@@ -7068,7 +7063,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "iceauth",
           "version": "1.0.8",
@@ -13049,7 +13043,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-font-utils' package, version 7.5",
         "other": {
           "name": "mkfontscale",
           "version": "1.2.2",
@@ -14890,7 +14883,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "oclock",
           "version": "1.0.5",
@@ -25501,7 +25493,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "rgb",
           "version": "1.0.6",
@@ -27362,7 +27353,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "sessreg",
           "version": "1.1.0",
@@ -27423,7 +27413,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-xkb-utils' package, version 7.7",
         "other": {
           "name": "setxkbmap",
           "version": "1.3.4",
@@ -29564,7 +29553,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "x11perf",
           "version": "1.6.1",
@@ -29685,7 +29673,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xclipboard",
           "version": "1.1.4",
@@ -29696,7 +29683,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xclock",
           "version": "1.1.1",
@@ -29717,7 +29703,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xconsole",
           "version": "1.0.8",
@@ -29738,7 +29723,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xcursorgen",
           "version": "1.0.8",
@@ -29819,7 +29803,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xeyes",
           "version": "1.3.0",
@@ -29840,7 +29823,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xfd",
           "version": "1.1.4",
@@ -29851,7 +29833,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xfontsel",
           "version": "1.1.0",
@@ -29882,7 +29863,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xgamma",
           "version": "1.0.6",
@@ -29903,7 +29883,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xhost",
           "version": "1.0.7",
@@ -29934,7 +29913,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xinput",
           "version": "1.6.3",
@@ -29945,7 +29923,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xiswayland",
           "version": "1",
@@ -29956,7 +29933,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-xkb-utils' package, version 7.7",
         "other": {
           "name": "xkbcomp",
           "version": "1.4.7",
@@ -29967,7 +29943,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-xkb-utils' package, version 7.7",
         "other": {
           "name": "xkbevd",
           "version": "1.1.5",
@@ -29978,7 +29953,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-xkb-utils' package, version 7.7",
         "other": {
           "name": "xkbprint",
           "version": "1.0.6",
@@ -29989,7 +29963,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-xkb-utils' package, version 7.7",
         "other": {
           "name": "xkbutils",
           "version": "1.0.6",
@@ -30010,7 +29983,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xkill",
           "version": "1.0.5",
@@ -30021,7 +29993,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xload",
           "version": "1.1.4",
@@ -30032,7 +30003,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xlogo",
           "version": "1.0.6",
@@ -30043,7 +30013,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xmag",
           "version": "1.0.7",
@@ -30054,7 +30023,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xmessage",
           "version": "1.0.6",
@@ -30155,7 +30123,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xmodmap",
           "version": "1.0.9",
@@ -30306,7 +30273,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xpr",
           "version": "1.1.0",
@@ -30327,7 +30293,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xrandr",
           "version": "1.5.0",
@@ -30338,7 +30303,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xrdb",
           "version": "1.1.1",
@@ -30349,7 +30313,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xrefresh",
           "version": "1.0.6",
@@ -30370,7 +30333,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xset",
           "version": "1.2.4",
@@ -30381,7 +30343,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xsetpointer",
           "version": "1.0.1",
@@ -30392,7 +30353,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xsetroot",
           "version": "1.1.2",
@@ -30403,7 +30363,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-server-utils' package, version 7.7",
         "other": {
           "name": "xstdcmap",
           "version": "1.0.3",
@@ -30434,7 +30393,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xvidtune",
           "version": "1.0.4",
@@ -30445,7 +30403,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xwd",
           "version": "1.0.9",
@@ -30456,7 +30413,6 @@
     {
       "component": {
         "type": "other",
-        "comment": "Imported as part of the 'xorg-x11-apps' package, version 7.7",
         "other": {
           "name": "xwud",
           "version": "1.0.6",
